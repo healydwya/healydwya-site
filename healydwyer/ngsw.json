@@ -1,0 +1,89 @@
+{
+  "configVersion": 1,
+  "index": "/healydwya.github.io/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/healydwya.github.io/es2015-polyfills.44b450db0b1006206bb5.js",
+        "/healydwya.github.io/favicon.ico",
+        "/healydwya.github.io/index.html",
+        "/healydwya.github.io/main.64a7fcc5f0ba533ac213.js",
+        "/healydwya.github.io/polyfills.a54d8de73b6ba0d008a5.js",
+        "/healydwya.github.io/runtime.26209474bfa8dc87a77c.js",
+        "/healydwya.github.io/styles.5583347f35c75869a9c9.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/healydwya.github.io/allocations.466ecd155caf315f25b2.svg",
+        "/healydwya.github.io/assets/allocations.svg",
+        "/healydwya.github.io/assets/carshop.png",
+        "/healydwya.github.io/assets/carshop.svg",
+        "/healydwya.github.io/assets/icons/icon-128x128.png",
+        "/healydwya.github.io/assets/icons/icon-144x144.png",
+        "/healydwya.github.io/assets/icons/icon-152x152.png",
+        "/healydwya.github.io/assets/icons/icon-192x192.png",
+        "/healydwya.github.io/assets/icons/icon-384x384.png",
+        "/healydwya.github.io/assets/icons/icon-512x512.png",
+        "/healydwya.github.io/assets/icons/icon-72x72.png",
+        "/healydwya.github.io/assets/icons/icon-96x96.png",
+        "/healydwya.github.io/assets/map.png",
+        "/healydwya.github.io/assets/tracklines.svg",
+        "/healydwya.github.io/assets/tracks.png",
+        "/healydwya.github.io/carshop.56e7e09482a59ede24fd.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/healydwya.github.io/allocations.466ecd155caf315f25b2.svg": "3feb7b5882a1ad1ca90b84c477198d543e78a370",
+    "/healydwya.github.io/assets/allocations.svg": "3feb7b5882a1ad1ca90b84c477198d543e78a370",
+    "/healydwya.github.io/assets/carshop.png": "caed4fc6eaa81bedfbacfe7afba77c2a7de5ea3a",
+    "/healydwya.github.io/assets/carshop.svg": "787e0e7e7a838d79ccddd3902dc584e1f9176a30",
+    "/healydwya.github.io/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/healydwya.github.io/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/healydwya.github.io/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/healydwya.github.io/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/healydwya.github.io/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/healydwya.github.io/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/healydwya.github.io/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/healydwya.github.io/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/healydwya.github.io/assets/map.png": "ad2a1be208ab3e536a085a05f4e46ddd6fa3f0e1",
+    "/healydwya.github.io/assets/tracklines.svg": "0a336d734cfd0565b65df5d263894e2d09de5eb5",
+    "/healydwya.github.io/assets/tracks.png": "07c342b04209c5f4b751a3dfa0cd47ed3b977a2c",
+    "/healydwya.github.io/carshop.56e7e09482a59ede24fd.png": "caed4fc6eaa81bedfbacfe7afba77c2a7de5ea3a",
+    "/healydwya.github.io/es2015-polyfills.44b450db0b1006206bb5.js": "2f388121100fc23553ef172f4227276f96b7a97c",
+    "/healydwya.github.io/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/healydwya.github.io/index.html": "e03829d835044ffe7ba1ef3f2ef315405b39abda",
+    "/healydwya.github.io/main.64a7fcc5f0ba533ac213.js": "625131e629d37a43f80ef9cc33af7421ff1af2fb",
+    "/healydwya.github.io/polyfills.a54d8de73b6ba0d008a5.js": "ac2ddad90f8bfed3dedb4522644a0ccdb85a673a",
+    "/healydwya.github.io/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/healydwya.github.io/styles.5583347f35c75869a9c9.css": "8aaabc8c47644ed03a7134e6b64e2aca8f4b0a3c"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
